@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.1" language="bg">
 <context>
     <name>AppItem</name>
     <message>
         <location filename="../qml/AppItem.qml" line="73"/>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/AppItem.qml" line="85"/>
         <source>Unpin</source>
-        <translation>Liberar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/AppItem.qml" line="85"/>
         <source>Pin</source>
-        <translation>Afixar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/AppItem.qml" line="94"/>
         <source>Close window</source>
-        <translation>Fechar janela</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/AppItem.qml" line="95"/>
         <source>Close %1 windows</source>
-        <translation>Fechar %1 janelas</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -34,7 +34,7 @@
     <message>
         <location filename="../src/applicationmodel.cpp" line="285"/>
         <source>Launcher</source>
-        <translation>Lançador</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -42,17 +42,17 @@
     <message>
         <location filename="../qml/main.qml" line="114"/>
         <source>Trash</source>
-        <translation>Lixo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/main.qml" line="124"/>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/main.qml" line="129"/>
         <source>Empty Trash</source>
-        <translation>Esvaziar Lixo</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

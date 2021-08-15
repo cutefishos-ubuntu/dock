@@ -6,27 +6,27 @@
     <message>
         <location filename="../qml/AppItem.qml" line="73"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Åben</translation>
     </message>
     <message>
         <location filename="../qml/AppItem.qml" line="85"/>
         <source>Unpin</source>
-        <translation type="unfinished"></translation>
+        <translation>Løsn</translation>
     </message>
     <message>
         <location filename="../qml/AppItem.qml" line="85"/>
         <source>Pin</source>
-        <translation type="unfinished"></translation>
+        <translation>Retter</translation>
     </message>
     <message>
         <location filename="../qml/AppItem.qml" line="94"/>
         <source>Close window</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk vinduet</translation>
     </message>
     <message>
         <location filename="../qml/AppItem.qml" line="95"/>
         <source>Close %1 windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk %1 vinduer</translation>
     </message>
 </context>
 <context>
@@ -34,7 +34,7 @@
     <message>
         <location filename="../src/applicationmodel.cpp" line="285"/>
         <source>Launcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanceringsenhed</translation>
     </message>
 </context>
 <context>
@@ -42,12 +42,12 @@
     <message>
         <location filename="../qml/main.qml" line="114"/>
         <source>Trash</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurv</translation>
     </message>
     <message>
         <location filename="../qml/main.qml" line="124"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn</translation>
     </message>
     <message>
         <location filename="../qml/main.qml" line="129"/>
